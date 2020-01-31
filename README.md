@@ -11,6 +11,6 @@ From that we get:
 
 ```
    sin ɸ = 2/2.5
-       ɸ = 53.13
+       ɸ = 53.1
 ```
 ![Puzzler](/IMG_8148-2.jpg)
