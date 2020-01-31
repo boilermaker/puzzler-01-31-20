@@ -1,1 +1,1 @@
-![Puzzler](/IMG_8148.JPG)
+![Puzzler](/IMG_8148-2.JPG)
