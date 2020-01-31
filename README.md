@@ -1,5 +1,7 @@
 ## Solution to Can You Roll The Perfect Bowl?
 
+https://fivethirtyeight.com/features/can-you-roll-the-perfect-bowl
+
 > What is the minimum value of ɸ that will allow your bowl to split your opponents’ bowls without hitting them?
 
 1. The balls have a radius of 1.
