@@ -8,8 +8,9 @@
 The closest that it could come without hitting the balls would form a right triangle, where 2.5 is the hypotenuse, and 2 is the opposite -- as indicated in the diagram below, (not drawn to scale).
 
 From that we get:
- 
+
+```
    sin ɸ = 2/2.5
        ɸ = 53.13
-
+```
 ![Puzzler](/IMG_8148-2.jpg)
